@@ -6,6 +6,7 @@ hs_err_pid*
 
 # Gradle working directory
 .gradle/
+local.properties
 
 # Build directories for Gradle and IDEs
 build/
